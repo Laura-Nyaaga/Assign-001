@@ -1,0 +1,11 @@
+#main{
+    margin: 5%;
+    border: dotted 2px;
+    border-color: blueviolet;
+}
+#container{
+    border: solid 2px;
+    border-color: rgb(216, 41, 41);
+    margin: 5%;
+    padding: 20px;
+}
